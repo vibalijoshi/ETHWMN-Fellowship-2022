@@ -1,0 +1,2 @@
+- Range of UINT256 : https://ethereum.stackexchange.com/questions/29946/what-is-uint256
+- Assert.ok(setStorageContractVal == receivedStorageContractVal, "test passed") not three (===) this is not javascript. 
