@@ -7,4 +7,4 @@ After Creation of your account, add some test ether in your wallet. Also you wou
 
 
 ### Mistakes
-While adding test ether in my Meta Mask wallet, I was using the mainnet network. When I switched to goerli network, the ether was not transfered there. So be careful wht your network is. 
+While adding test ether in my Meta Mask wallet, I was using the mainnet network. When I switched to goerli network, the ether was not transferred there. So be careful wht your network is. 
