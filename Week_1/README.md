@@ -21,7 +21,7 @@ I had no prior knowledge about Ethereum Blockchain, so I educated myself by read
 
 # In Depth Explanation
 
-### Module - 1
+## Module - 1
 Create a mental picture about the Ethereum Ecosystem
 - [check out docs](https://ethereum.org/en/developers/docs/intro-to-ethereum/)
 - [this article](https://www.preethikasireddy.com/post/how-does-ethereum-work-anyway?utm_source=pocket_mylist)
@@ -31,10 +31,10 @@ So after you have acquianted yourselves with the basics of Ethereum, you can und
 
 We need to create a node in order to participate in the network. For that we need a local copy of the blockchain on our system. This process is guresome. It takes a lot of time i.e around 2-3 days if everything is working fine! Also the worst part is that any further assignments were not possible until node was created. So I used infura for it. Infura provided me with an endpoint instantly which I could use to directly interact with the Goerli testnet. 
 
-### Module -2: Sending Transaction
+## Module -2: Sending Transaction
 
 [Module -2](https://github.com/vibalijoshi/ETHWMN-Fellowship-2022/tree/main/Week_1/Module_2#readme)
 
-### Module -3: Scraping blockchain data
+## Module -3: Scraping blockchain data
 
 [Module -3](https://github.com/vibalijoshi/ETHWMN-Fellowship-2022/tree/main/Week_1/Module_3#module--3)
