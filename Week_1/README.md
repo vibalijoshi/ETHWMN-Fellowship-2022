@@ -33,4 +33,6 @@ We need to create a node in order to participate in the network. For that we nee
 
 ### Module -2: Sending Transaction
 
+[Module -2](https://github.com/vibalijoshi/ETHWMN-Fellowship-2022/tree/main/Week_1/Module_2#readme)
+
 ### Module -3: Scraping blockchain data
