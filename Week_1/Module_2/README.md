@@ -1,6 +1,6 @@
 # Module -2
 
-1. Now you need to create an account on the goerli network. It manages your key pair enabling you to perform transactions. [How to create an account](). I would suggest you to create two accounts, as this would come handy while performing the transactions.
+1. Now you need to create an account on the goerli network. It manages your key pair enabling you to perform transactions. [How to create an account](https://github.com/vibalijoshi/ETHWMN-Fellowship-2022/blob/main/Week_1/Module_2/createAccount.md). I would suggest you to create two accounts, as this would come handy while performing the transactions.
 2. After you have your account ready, add some test ether (this ether has no monetary value and is used for testing purposes only). [How to get test ether](https://github.com/vibalijoshi/ETHWMN-Fellowship-2022/blob/main/Week_1/Module_2/addTestEther.md)
 
 ## Signing The Message
