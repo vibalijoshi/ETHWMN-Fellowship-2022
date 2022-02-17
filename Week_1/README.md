@@ -23,7 +23,7 @@ I had no prior knowledge about Ethereum Blockchain, so I educated myself by read
 
 ### Module - 1
 Create a mental picture about the Ethereum Ecosystem
-- [check out docs]()https://ethereum.org/en/developers/docs/intro-to-ethereum/
+- [check out docs](https://ethereum.org/en/developers/docs/intro-to-ethereum/)
 - [this article](https://www.preethikasireddy.com/post/how-does-ethereum-work-anyway?utm_source=pocket_mylist)
 - [This YT playlist](https://www.youtube.com/playlist?list=PLJz1HruEnenCXH7KW7wBCEBnBLOVkiqIi)
 
@@ -33,4 +33,4 @@ We need to create a node in order to participate in the network. For that we nee
 
 ### Module -2: Sending Transaction
 
-### Module -3: 
+### Module -3: Scraping blockchain data
