@@ -12,7 +12,7 @@ This particular section introduced me to the usecase of smart contracts in Ether
 _Creating my ERC20 token "Distribute Happiness" on the Remix IDE_
 ![Screenshot from 2022-02-16 19-08-11](https://user-images.githubusercontent.com/69690510/154498027-fd13985a-e818-4028-9200-cde8f7789e6c.png)
 
-3. After creating my contract and deploying it, I verified the contract so that I could read and write it. My first ERC20 token is deployed [here](https://goerli.etherscan.io/address/0xbcd664f4131e0f0b2415a62ed40c164938011c67)!
+3. After creating my contract and deploying it, I verified the contract so that I could read and write it. [How you can read and write contract code on Etherscan](https://medium.com/etherscan-blog/interacting-with-smart-contracts-on-etherscan-b3e1d2395ac). My first ERC20 token is deployed [here](https://goerli.etherscan.io/address/0xbcd664f4131e0f0b2415a62ed40c164938011c67)!
 
 - I was quite confused at this point about the difference between a token and a contract so decided to clear it out! [Answer](https://bitcoin.stackexchange.com/questions/74240/token-vs-contract-are-they-the-same#:~:text=The%20Ethereum%20ERC20%20token%20is,is%20contract%20and%20not%20token%20.)
 - I think ERC20 tokens are somewhat I feel like NFTs (Non Fungible Token) where you can get money in exchange for your art or something that you can offer as a token. 
