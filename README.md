@@ -1,4 +1,4 @@
-ETHWMN Fellowship by Devfolio
+# ETHWMN Fellowship by Devfolio
 
 The ETHWMN Fellowship is an 8-week mentor-led program, exclusive for women, to upskill Web2 developers and enable them to make the transition to Web3 using Ethereum while providing a comprehensive overview of the ecosystem.
 
