@@ -3,7 +3,7 @@
 This week was when I learnt about smart contracts the single biggest factor which differentiates Ethereum from other blockchains. Smart Contract is basically Solidity code which can interact with the Ethereum Blockchain. How to use the Remix IDE which can compile and deploy contracts easily, writing javascript scripts to deploy the contract, creating tokens, and desiging a contract by our own.
 
 
-## Module - 1 Introduction To Remix and Solidity
+## Module - 1: Introduction To Remix and Solidity
 Remix is a web based Solidity compiler. In this module we just had to deploy a contract in the JSVM enviroment. The JsVM is a private blockchain. The JsVM is its own blockchain and on each reload it will start a new blockchain, the old one will not be saved.
 ![image](https://user-images.githubusercontent.com/69690510/154492375-d8703053-a782-4c42-a48b-c9052438e7e5.png)
 
@@ -12,9 +12,9 @@ Also as contracts are basically solidity code, it was advised that we go through
 I would suggest to go through at least the first two modules as the knowledge required to code a contract is explained beautifully. 
 
 Notes:
-1. [Range of the uint256](https://ethereum.stackexchange.com/questions/29946/what-is-uint256)
+1. [Range of the uint256 data type](https://ethereum.stackexchange.com/questions/29946/what-is-uint256)
 
-## Module -2 Exploring Remix
+## Module -2: Exploring Remix
 Remix IDE proviedes web based Solidity compiler. You can also compile solidity code locally after installing the required environment, but for learning purpose Remix makes it a lot easier.
 Also we were required to write tests for the default contract present in the IDE. Testing a contract before deployment is very important as it cannot be changed. The deployment transaction requires gas, hence we need to be careful about the resources. Hence, testing is an integral part of contract development.
 ![Module_3](https://user-images.githubusercontent.com/69690510/154495822-e919a397-ef55-4a7d-9798-c13afa67bbd7.png)
@@ -26,7 +26,16 @@ Suggested Links:
 2. [Testing by Example, Remix IDE](https://remix-ide.readthedocs.io/en/latest/unittesting_examples.html)
 
 
+## Module -3: Using Js to deploy contracts
+In this module we were required to analyze the default javascipt scripts provided by default by the IDE and deploy a sample contract. This was fairly simple as after analyzing the sample, all I had to do was change the solidity file name. 
 
+Also I used the etherjs library for the first time. It was quite similar to the web3js library and the conversion of the string to bytes32 was fairly simple after reading the docs. 
+
+## Module -4: Create your own ERC20 token
+
+I have explained in detail here. 
+
+## Module-5: Dead Man's Switch
 
 
 ## Further Goals
