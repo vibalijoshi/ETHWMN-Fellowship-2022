@@ -47,3 +47,4 @@ contract DeadManSwitch{
         }
     }
 }
+//contract address - 0x7C63452566a3E914745255E552b1cD1D81792f98
