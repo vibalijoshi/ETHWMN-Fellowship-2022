@@ -19,7 +19,7 @@ I had no prior knowledge about Ethereum Blockchain, so I educated myself by read
 3. Figuring out how to work around the web3js library. Prior to this I had never referrenced to documents much. 
 4. Implementing the code for the first block having a smart contract transaction. After a lot of reading and debugging was able to figure it out. 
 
-# In Depth Explaination
+# In Depth Explanation
 
 ### Module - 1
 Create a mental picture about the Ethereum Ecosystem
