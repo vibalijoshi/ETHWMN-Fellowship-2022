@@ -18,3 +18,19 @@ I had no prior knowledge about Ethereum Blockchain, so I educated myself by read
 2. The geth node was taking a lot of time to sync so had to find other ways to sync a node ( used Infura )
 3. Figuring out how to work around the web3js library. Prior to this I had never referrenced to documents much. 
 4. Implementing the code for the first block having a smart contract transaction. After a lot of reading and debugging was able to figure it out. 
+
+# In Depth Explaination
+
+### Module - 1
+Create a mental picture about the Ethereum Ecosystem
+- [check out docs]()https://ethereum.org/en/developers/docs/intro-to-ethereum/
+- [this article](https://www.preethikasireddy.com/post/how-does-ethereum-work-anyway?utm_source=pocket_mylist)
+- [This YT playlist](https://www.youtube.com/playlist?list=PLJz1HruEnenCXH7KW7wBCEBnBLOVkiqIi)
+
+So after you have acquianted yourselves with the basics of Ethereum, you can understand what a node and a client is. I would suggest going through the chapters of the book Mastering Ethereum regarding this.
+
+We need to create a node in order to participate in the network. For that we need a local copy of the blockchain on our system. This process is guresome. It takes a lot of time i.e around 2-3 days if everything is working fine! Also the worst part is that any further assignments were not possible until node was created. So I used infura for it. Infura provided me with an endpoint instantly which I could use to directly interact with the Goerli testnet. 
+
+### Module -2: Sending Transaction
+
+### Module -3: 
