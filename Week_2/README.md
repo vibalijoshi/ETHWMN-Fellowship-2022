@@ -33,9 +33,12 @@ Also I used the etherjs library for the first time. It was quite similar to the 
 
 ## Module -4: Create your own ERC20 token
 
-I have explained in detail here. 
+I have explained in detail [here](https://github.com/vibalijoshi/ETHWMN-Fellowship-2022/tree/main/Week_2/Module_4). 
 
 ## Module-5: Dead Man's Switch
+
+
+I have explained in detail [here](https://github.com/vibalijoshi/ETHWMN-Fellowship-2022/tree/main/Week_2/Module_5). 
 
 
 ## Further Goals
