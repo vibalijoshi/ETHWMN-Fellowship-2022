@@ -8,6 +8,8 @@ I recommend going through the official tutorial and just following along it: htt
 ## Workflow
 
 Summarizing the workflow ->
+![image](https://user-images.githubusercontent.com/69690510/155526716-7bbf0e3e-9ce8-4669-9405-85f5725ac29d.png)
+
 
 ## Deploying to testnets
 
